@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Her finner du dokumentasjon for Mystore Datakasse versjon 4.0
+
+![pos 4 0](https://user-images.githubusercontent.com/114920022/193567918-5b28ce08-0f3c-4ea4-9610-bfc69f71490d.jpg)
+
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
