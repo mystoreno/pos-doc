@@ -6,9 +6,9 @@ permalink: /about/
 
 Her finner du dokumentasjon for Mystore Datakasse versjon 4.0
 
-![pos 4 0](https://user-images.githubusercontent.com/114920022/193567918-5b28ce08-0f3c-4ea4-9610-bfc69f71490d.jpg)
-
 ![pos-v4](assets/images/datakasse-v4.jpeg)
+
+![login](assets/images/pos-4.0-login.jpg)
 
 
 You can find the source code for Minima at GitHub:
