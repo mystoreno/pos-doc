@@ -2,7 +2,7 @@
 layout: page
 title: Kom i gang
 permalink: /kom-i-gang/
-nav_order: 1
+nav_order: 2
 has_children: true
 ---
 
