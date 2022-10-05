@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hjem
-permalink: /hjem/
+title: About
+permalink: /about/
 nav_order: 1
 ---
 
