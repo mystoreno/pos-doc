@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Hjem
+permalink: /hjem/
+nav_order: 1
 ---
 
 Her finner du dokumentasjon for Mystore Datakasse versjon 4.0
