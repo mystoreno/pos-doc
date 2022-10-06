@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Kontantbetaling
-permalink: /betalingsmetoder/kontantbetaling/
+title: Betal kontant
+permalink: /betalingsmetoder/betal-kontant/
 nav_order: 3
 parent: Betalingsmetoder
 ---
 
-# Kontantbetaling
+# Betal kontant
