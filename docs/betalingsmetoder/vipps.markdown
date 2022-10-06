@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Vipps
+title: Betal med Vipps
 permalink: /betalingsmetoder/vipps/
 nav_order: 2
 parent: Betalingsmetoder
 ---
 
-# Vipps
+# Betal med Vipps
