@@ -16,4 +16,4 @@ I Mystore er kassapunkter koblet opp mot administratorer. Hver administrator få
 
 Du kan altså velge om kassapunktet skal være en fast generisk bruker som ikke endres per kasse – f. eks _Kasse 1_, som da blir fast hovedbruker på en gitt kasse/ipad – eller om  det til en hver tid er den individuelle brukeren/selgeren som bruker gitt kasse som definerer kassapunktet. 
 
-![kassapunkt](assets/images/kassapunkt.jpg) 
+![kassapunkt](/docs/assets/images/kassapunkt.jpg) 
