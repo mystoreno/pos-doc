@@ -2,7 +2,7 @@
 layout: page
 title: Hva er en hovedbruker?
 permalink: /innlogging-brukere/hovedbruker/
-nav_order: 2
+nav_order: 4
 parent: Innlogging og brukere
 ---
 
