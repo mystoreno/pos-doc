@@ -7,9 +7,9 @@ parent: Kom i gang
 ---
 
 # Koble til kvitteringsskriver 
----
 
-> Se til at skriveren er påskrudd og koblet til ipad/iphone med kabel.
+{: .highlight } 
+Se til at skriveren er påskrudd og koblet til ipad/iphone med kabel
 
 1. Gå til hovedmenyen
 2. Trykk på _Koble opp skriver_
