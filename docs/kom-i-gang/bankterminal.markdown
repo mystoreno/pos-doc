@@ -11,3 +11,5 @@ parent: Kom i gang
 1. Trykk på bankterminalikonet øverst i appen. Du blir nå sendt til betalingsinnstillinger.
 2. Trykk på _Koble til terminal_ 
 3. Trykk på terminalen du vil koble opp mot kassen din. Hvis du har flere terminaler må du sjekke serienummeret for å velge riktig terminal.
+
+Når terminalen er koblet til vil terminalikonet øvertst i appen være grønt (isteden for grått). Kort-knappen nederst i handleurven vil også være grønn når en bankterminal er koblet til.
