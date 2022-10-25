@@ -8,7 +8,7 @@ parent: Kom i gang
 
 # Koble til kvitteringsskriver 
 
-{: .highlight } 
+{: .important } 
 Se til at skriveren er påskrudd og koblet til ipad/iphone med kabel
 
 1. Gå til hovedmenyen
