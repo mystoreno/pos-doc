@@ -7,6 +7,7 @@ parent: Kom i gang
 ---
 
 # Koble til kvitteringsskriver 
+---
 
 Se til at skriveren er påskrudd og koblet til ipad/iphone med kabel.
 
