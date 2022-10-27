@@ -13,5 +13,6 @@ Innloget bruker vil være _hovedbruker_ og definere kassepunkt/kasse-ID.
 
 For å [skifte selger](https://mystoreno.github.io/pos-doc/innlogging-brukere/velge-selger/) er det ikke nødvendig å logge ut, det kan gjøres uavhengig av hvilken _hovedbruker_ som er innlogget.
 
-{: .highlight }
-Merk at "ekspeditør" registrert på z-rapport vil være innlogget _hovedbruker_, ikke sist valgte selger. Men den som faktisk har utført avstemming bør signere på z-rapportutskriften. 
+{: .important }
+Merk at "ekspeditør", registrert på den digitale z-rapporten du kan se i kontrollpanelet, vil være innlogget _hovedbruker_, ikke sist valgte selger. 
+
