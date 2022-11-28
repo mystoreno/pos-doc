@@ -55,8 +55,6 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-color_scheme: mystore
-
 callouts_level: quiet # or loud
 callouts:
   highlight:
