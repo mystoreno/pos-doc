@@ -29,6 +29,7 @@ url: "https://mystoreno.github.io" # the base hostname & protocol for your site,
 twitter_username: jekyllrb
 github_username:  jekyll
 
+color_scheme: mystore
 # Build settings
 # theme: minima
 remote_theme: just-the-docs/just-the-docs
@@ -54,7 +55,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-color_scheme: mystore
+
 callouts_level: quiet # or loud
 callouts:
   highlight:
