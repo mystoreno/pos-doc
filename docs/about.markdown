@@ -1,3 +1,5 @@
+@import "./assets/scss/_variables";
+
 ---
 layout: page
 title: Hjem
