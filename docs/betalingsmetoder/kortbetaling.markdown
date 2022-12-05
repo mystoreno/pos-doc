@@ -11,7 +11,7 @@ parent: Betalingsmetoder
 {: .highlight }
 Veiledning for å koble til bankterminal finn du [HER](https://mystoreno.github.io/pos-doc/kom-i-gang/bankterminal/)
 
-Når bankterminal er koblet til kan du ta i mot betaling med kort. Du vil nå ha en grønn betalingsknapp nederst i handlekurven med tekst/tittel _Kort_.
+Når bankterminal er koblet til er du klar for å ta i mot betaling med bankkort.
 
 ![kortbetaling](/pos-doc/assets/images/kortbetaling.jpg)
 
@@ -25,4 +25,6 @@ Når bankterminal er koblet til kan du ta i mot betaling med kort. Du vil nå ha
 
 Hvis kunde ønsker å splitte opp betalingen mellom flere bankkort, eller delvis betale med vipps, kan du aktivere splitt-betaling via _Hovedmeny > Innstillinger > Betaling > Tillat splitt-betaling_
 
-Hvis kunde vil spltte betaling mellom kontanter og bankkort, eller gavekort/tilgodelapp og bankkort, trenger du ikke å aktivere splitt-betaling. Da holder det å først velge kontant (eller gavekort/tilgodelapp), og så velge kort for resterende beløp.
+![splittbetaling](/pos-doc/assets/images/splitt_betaling.jpg
+
+Hvis kunde vil splitte betaling mellom kontanter og bankkort, eller gavekort/tilgodelapp og bankkort, trenger du ikke å aktivere splitt-betaling. Da holder det å først velge kontant (eller gavekort/tilgodelapp), og så velge kort for resterende beløp.
