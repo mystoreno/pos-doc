@@ -10,6 +10,7 @@ parent: Innlogging og brukere
 
 Brukernavn og passord er det samme som du bruker for å logge inn i kontrollpanelet. <br>
 Innloget bruker vil være _hovedbruker_ og definere kassepunkt/kasse-ID. <br>
+
 For å logge ut går du til hovedmenyen og trykker på menypunktet _Logg ut_
 
 {: .important }
