@@ -12,8 +12,6 @@ Brukernavn og passord er det samme som du bruker for å logge inn i kontrollpane
 Innloget bruker vil være _hovedbruker_ og definere kassepunkt/kasse-ID. <br>
 For å logge ut går du til hovedmenyen og trykker på menypunktet _Logg ut_
 
-For å [skifte selger](https://mystoreno.github.io/pos-doc/innlogging-brukere/velge-selger/) er det ikke nødvendig å logge ut, det kan gjøres uavhengig av hvilken _hovedbruker_ som er innlogget.
-
 {: .important }
-Merk at "ekspeditør", registrert på den digitale z-rapporten du kan se i kontrollpanelet, vil være innlogget _hovedbruker_, ikke sist valgte selger. 
+For å [skifte selger](https://mystoreno.github.io/pos-doc/innlogging-brukere/velge-selger/) er det ikke nødvendig å logge ut, det kan gjøres uavhengig av hvilken _hovedbruker_ som er innlogget.
 
