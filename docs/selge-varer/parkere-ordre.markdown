@@ -13,8 +13,8 @@ parent: Selge varer
 3. Ordren vil nå ligge øverst appen, ved siden av terminalikonet, markert med et P-ikon.
 4. Trykk på P-ikonet for å hente inn parkerte ordrer.
 
-![parker_ordre_1](/pos-doc/assets/images/parker_ordre_1.jpg)
+![parker_ordre_1](/pos-doc/assets/images/parkere_ordre_1.jpg)
 
-![parker_ordre_2](/pos-doc/assets/images/parker_ordre_2.jpg)
+![parker_ordre_2](/pos-doc/assets/images/parkere_ordre_2.jpg)
 
-![parker_ordre_3](/pos-doc/assets/images/parker_ordre_3.jpg)
+![parker_ordre_3](/pos-doc/assets/images/parkere_ordre_3.jpg)
