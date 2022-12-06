@@ -8,10 +8,11 @@ parent: Betalingsmetoder
 
 # Betal med Vipps
 
+{: .important }
 For å bruke Vipps i datakassen må du først ha en avtale/konto. Hvis du ikke allerede har satt opp Vipps for Mystore, klikk [her](https://apps.mystore.no/products/vipps) for å bestille.
 
 Når Vippskontoen for Mystore er klar til bruk gjør du følgende for å aktivere denne i datakassen:
-1. Gå til Hovedmeny > Innstillinger > Betaling
+1. Gå til _Hovedmeny > Innstillinger > Betaling_
 2. Her aktiverer du Vipps som betalingsmetode
 ![vipps_1](/pos-doc/assets/images/vipps_1.jpg) <br>
 3. Når betalingsmetoden er aktivert vil du ha en betalingsknapp for Vipps
