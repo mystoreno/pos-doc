@@ -18,5 +18,5 @@ Gå til _Hovedmeny > Innstillinger > Betaling_ og slå på _kassaskuff_
 3. Trykk Betal
 4. Ordren fullføres og kvittering kan skrives ut
 
-{: .highlight}
+{: .highlight }
 Hvis kunden ønsker å kun betale deler av beløpet med kontanter skriver du inn delbeløpet (så vil resterende beløp kunne betales med en annen betalingsmetode)
