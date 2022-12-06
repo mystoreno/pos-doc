@@ -27,4 +27,4 @@ Hvis kunde ønsker å splitte opp betalingen mellom flere bankkort, eller delvis
 
 ![splittbetaling](/pos-doc/assets/images/splitt_betaling.jpg)
 
-Hvis kunde vil splitte betaling mellom kontanter og bankkort, eller gavekort/tilgodelapp og bankkort, trenger du ikke å aktivere splitt-betaling. Da holder det å først velge kontant (eller gavekort/tilgodelapp), og så velge kort for resterende beløp.
+Hvis kunde vil splitte betaling mellom kontanter og bankkort, eller gavekort/tilgodelapp og bankkort, trenger du ikke å aktivere splitt-betaling, da holder det å først velge kontant (eller gavekort/tilgodelapp), og så velge kort for resterende beløp.
