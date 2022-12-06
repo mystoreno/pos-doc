@@ -60,7 +60,7 @@ color_scheme: mystore
 callouts_level: quiet # or loud
 callouts:
   highlight:
-    color: teal
+    color: yellow
   important:
     color: blue
   new:
@@ -72,6 +72,8 @@ callouts:
   warning:
     title: Advarsel
     color: red
+  custom:
+    color: teal
 
 kramdown:
   syntax_highlighter_opts:
