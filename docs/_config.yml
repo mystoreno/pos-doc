@@ -60,7 +60,7 @@ color_scheme: mystore
 callouts_level: quiet # or loud
 callouts:
   highlight:
-    color: yellow
+    color: teal
   important:
     color: blue
   new:
