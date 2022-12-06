@@ -72,8 +72,6 @@ callouts:
   warning:
     title: Advarsel
     color: red
-  custom:
-    color: teal
 
 kramdown:
   syntax_highlighter_opts:
