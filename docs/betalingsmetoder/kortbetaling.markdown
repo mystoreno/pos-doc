@@ -7,12 +7,10 @@ parent: Betalingsmetoder
 ---
 
 # Betal med kort
-<br>
-
+---
 {: .highlight }
 Veiledning for å koble til bankterminal finn du [HER](https://mystoreno.github.io/pos-doc/kom-i-gang/bankterminal/)
 
-<br>
 Når bankterminal er koblet til er du klar for å ta i mot betaling med bankkort.
 
 ![kortbetaling](/pos-doc/assets/images/kortbetaling.jpg)
