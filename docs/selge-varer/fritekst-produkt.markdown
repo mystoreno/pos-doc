@@ -7,7 +7,7 @@ parent: Selge varer
 ---
 
 # Hvordan legge til et fritekst-produkt (generisk produkt)
-<br>
+
 1. Trykk på pluss-knappen øverst i handlekurven
 ![generisk_produkt_1](/pos-doc/assets/images/generisk_produkt_1.jpg)
 2. Legg inn navn, mva, pris og antall.
