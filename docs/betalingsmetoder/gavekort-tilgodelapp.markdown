@@ -7,3 +7,8 @@ parent: Betalingsmetoder
 ---
 
 # Betal med gavekort/tilgodelapp
+
+1. Hvis har skanner kan du skanne gavekortet/tilgodelappen når produktene ligger i handlekurven, før du har trykket på _Gavekort_ eller _Tilgodelapp_. Eventuelt kan du først trykke på _Flere valg_ > _Gavekort_ eller _Tilgodelapp_, og så skrive inn (eller skanne) gavekort/tilgodelapp-koden
+2. Bekreft eller skriv inn beløpet som skal betales med gavekort/tilgodelapp
+3. Trykk _Betal_
+4. Important ==very important words==
