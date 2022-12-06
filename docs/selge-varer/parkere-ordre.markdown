@@ -7,7 +7,7 @@ parent: Selge varer
 ---
 
 # Hvordan parkere et salg
-<br>
+
 1. Når produktene ligger i handlekurven, trykk på _flere valg_ <br>
 ![parker_ordre1](/pos-doc/assets/images/parkere_ordre_1.jpg)
 2. Trykk på _Sett på vent_ <br>
