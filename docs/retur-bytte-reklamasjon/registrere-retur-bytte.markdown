@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Hvordan slå inn returer
+title: Hvordan slå inn retur
 permalink: /retur-bytte-reklamasjon/registrere-retur-byte/
 nav_order: 1
 parent: Retur, bytte og reklamasjon
 ---
 
-# Hvordan slå inn retur/bytte
+# Hvordan slå inn retur
 
 ## Via original ordre (skann kvittering)
 1. Hvis kunde har med seg fysisk kvitteing kan du skanne EAN-koden på kvitteringen direkte.
@@ -53,4 +53,4 @@ Hvis original ordre er betalt med kort kan beløpet refunderes til (samme) kort.
 4. Oversikt/status på refusjon kan sees via Hovedmeny > Se siste ordrer > Refusjoner 
 
 {: .important }
-Les mer om refusjon til kort [HER](https://mystoreno.github.io/pos-doc/innlogging-brukere/velge-selger/)
+Les mer om refusjon til kort [her](https://mystoreno.github.io/pos-doc/innlogging-brukere/velge-selger/)
