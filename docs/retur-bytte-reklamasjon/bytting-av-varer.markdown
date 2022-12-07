@@ -20,6 +20,7 @@ Når produktet er lagt til handlekurven vil det ha negativt antall og varelinjen
 Legg så til produkt(er) kunde skal ha i bytte og fullfør ordre. 
 
 ## Registerer bytte via original ordre
+Her har du tre muligheter:
 - Skann original kvittering
 - Finn ordre via _Hovedmeny > Se siste ordrer_. Trykk på valgknappen > _Retur/bytte_
 - Søk opp ordre via _Hovedmeny > Søk opp ordre_
