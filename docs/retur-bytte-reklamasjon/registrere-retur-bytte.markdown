@@ -51,4 +51,6 @@ Hvis original ordre er betalt med kort kan beløpet refunderes til (samme) kort.
 2. Ordre fullføres og kvittering kan skrives ut
 3. Kunde får beskjed om at pengene normalt vil være på konto ila fem arbeidsdager. 
 4. Oversikt/status på refusjon kan sees via Hovedmeny > Se siste ordrer > Refusjoner 
+
+{: .important }
 Les mer om refusjon til kort [HER](https://mystoreno.github.io/pos-doc/innlogging-brukere/velge-selger/)
