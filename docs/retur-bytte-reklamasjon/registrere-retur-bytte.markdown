@@ -8,6 +8,13 @@ parent: Retur, bytte og reklamasjon
 
 # Hvordan slå inn retur
 
+## Direkte i handlekurv
+1. Legg til produkt i handlekurv via skanning, søk eller kategorinavigering
+2. Trykk på varelinjen/produktet
+3. Trykk _Slå inn som retur_
+4. Velg type retur: _Retur/bytte_ eller _reklamasjon_. Ved _reklamasjon_ legges ikke produkt/enhet tilbake på lager
+5. Trykk på _Slå inn som retur_ og produkt legges til handlelurven med negativt antall
+
 ## Via original ordre (skann kvittering)
 1. Hvis kunde har med seg fysisk kvitteing kan du skanne EAN-koden på kvitteringen direkte.
 2. Original ordre kommer opp
