@@ -60,4 +60,4 @@ Hvis original ordre er betalt med kort kan beløpet refunderes til (samme) kort.
 4. Oversikt/status på refusjon kan sees via Hovedmeny > Se siste ordrer > Refusjoner 
 
 {: .important }
-Les mer om refusjon til kort [her](https://mystoreno.github.io/pos-doc/innlogging-brukere/velge-selger/)
+Les mer om refusjon til kort [her](https://mystoreno.github.io/pos-doc/retur-bytte-reklamasjon/refusjon-til-kort/)
