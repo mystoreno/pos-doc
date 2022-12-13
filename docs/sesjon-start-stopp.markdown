@@ -22,7 +22,7 @@ Trykk _Hovedmeny > Start kassasalg_ for å starte kassasalget/sesjonen.
 4. Se over oppsummeringen og legg eventuelt inn uttak til bank/nattsafe, og/eller kommenter avstemmingen
 5. Trykk _Fullfør avstemming_ 
 ![avstemming_4](/pos-doc/assets/images/oppgjor_4.jpg) <br>
-6. Z-rapport skrives ut (hvis printer er tilkoblet) og sendes på e-post til butikkens registerete e-postadresse i kontrollpanelet (_Konfigurasjon > Generelt > E-post > Butikkens e-postadresse_) 
+6. Z-rapport skrives ut (hvis printer er tilkoblet) og sendes på e-post til butikkens registrerte e-postadresse. Denne ligger i kontrollpanelet (_Konfigurasjon > Generelt > E-post > Butikkens e-postadresse_) 
 
 ### Har du integrasjon mot Tripletex?
 Med integrasjon mot Tripletex vil z-rapporten automatisk overføres når du fullfører avstemmingen. Oversikt/logg finner du i kontrollpanelet via _Verktøy > Automatisk regnskapsføring > Historikk_
