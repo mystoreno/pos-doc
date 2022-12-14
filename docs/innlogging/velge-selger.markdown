@@ -17,7 +17,7 @@ Dette kan velges via _Hovedmeny > Innstillinger > Generelt_
 Her kan du også velge om valg av selger skal påtvinges etter hvert salg.
 
 ## Valg av selger via selgermney
-Standard versjon. Så lenge du ikke har slått på PIN-kode/ansattkort vil du få selgermenyen når du trykker på selger-ikonet øverst i appen.
+Standard versjon. Så lenge du ikke har slått på PIN-kode/ansattkort vil du få selgermenyen når du trykker på selger-knappen øverst i appen.
 ![velg_selger_1](/pos-doc/assets/images/selger_1.jpg)
 ![velg_selger_2](/pos-doc/assets/images/selger_velg.jpg)
 
