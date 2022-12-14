@@ -13,7 +13,7 @@ Et kassapunkt kan være en fysisk plassering i butikk, eller en portabel enhet s
 I Mystore er kassapunkter koblet opp mot administratorer. Hver administrator får en kasse-ID, som da definerer kassapunktet. Altså vil innlogget administrator (i appen) alltid være gjeldene kassapunkt på en gitt kasse. Hvordan legge til administrator
 
 {: .highlight }
-Innlogget bruker/administrator kaller vi også for _hovedbruker_
+Innlogget bruker/administrator kaller vi også for [_hovedbruker_](https://mystoreno.github.io/pos-doc/innlogging-brukere/hovedbruker/) 
 
 Du kan altså velge om kassapunktet skal være en fast generisk bruker som ikke endres per kasse – f. eks _Kasse 1_, som da blir fast hovedbruker på en gitt kasse/ipad – eller om  det til en hver tid er den individuelle brukeren/ansatte som bruker gitt kasse som definerer kassapunktet. 
 
