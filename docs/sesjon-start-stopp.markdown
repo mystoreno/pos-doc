@@ -26,3 +26,6 @@ Trykk _Hovedmeny > Start kassasalg_ for å starte kassasalget/sesjonen.
 
 ### Har du integrasjon mot Tripletex?
 Med integrasjon mot Tripletex vil z-rapporten automatisk overføres når du fullfører avstemmingen. Oversikt/logg finner du i kontrollpanelet via _Verktøy > Automatisk regnskapsføring > Historikk_
+
+## Z-rapporten forklart
+
