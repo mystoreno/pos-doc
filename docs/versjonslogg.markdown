@@ -8,8 +8,7 @@ nav_order: 12
 # Versjonslogg
 Her legger vi ut informasjon om oppdateringer og endringer
 
-## Versjon 4.0.1
+## Versjon 4.0.0
 Ny funksjonalitet
 * Refusjon til kort har ny flyt
 * Byttelapp
-* 
