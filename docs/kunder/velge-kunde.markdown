@@ -7,3 +7,7 @@ parent: Kunder
 ---
 
 # Hvordan velge kunde ved salg av varer
+1. Trykk på kundeikon/kundenavn øverst i handlekurven
+2. Søk etter kunden via navn, tlf, e-post eller kundenummer
+3. Trykk på ønsket kunde i søkeresultatet
+4. Du vil nå se kundens navn øverst i handlekurven 
