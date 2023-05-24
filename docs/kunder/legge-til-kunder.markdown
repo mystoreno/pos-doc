@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hvordan legge til kunder
-permalink: /kunder/velge-kunde/
+permalink: /kunder/legge-til-kunder/
 nav_order: 2
 parent: Kunder
 ---
