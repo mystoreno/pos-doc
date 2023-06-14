@@ -10,4 +10,8 @@ Velkommen til dokumetasjonen for Mystore Datakasse. Du kan navigere til ønsket 
 
 Finner du ikke svar på spørsmålet ditt? [Ta kontakt med Mystore Kundeservice](https://www.mystore.no/kontakt-oss) 
 
+--- 
+
+## Hjem/index page
+![hjem](/pos-doc/assets/images/dokumentasjon_index_page.jpg)
 
