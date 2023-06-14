@@ -29,3 +29,25 @@ Finner du ikke svar på spørsmålet ditt? [Ta kontakt med Mystore Kundeservice]
 12. Utvalgte produkter/favorittprodukter. Settes via _produktinfo_ i produktboksene
 13. Kategorier
 14. Betalingsmetoder
+
+## Hovedmeny
+![hovedmeny_1](/pos-doc/assets/images/dokumentasjon_hovedmeny_1.jpg)
+
+1. Åpner innstillinger
+2. Start kassalg/sesjon
+3. Viser omsetning på nåværende sesjon. Kan også skrives ut
+4. Trykk her for å koble til eller sjekke tilkoblingsstatus på kvitteringsskriver 
+5. Åpner en liste/meny med siste ordrer fra alle kassapunkter, refusjoner (til bankkort) og ordrer fra nettbutikk
+6. Trykk her for å søke opp ordre
+7. Skriver ut siste kvittering (hvis kvitteringsskriver er tilkoblet)
+8. Åpner kassaskuffen hvis tilkoblet
+9. Trykk her for å logge ut. Navn i parentes viser innlogget bruker
+10. Viser kasse ID. [Les mer](https://mystoreno.github.io/pos-doc/kom-i-gang/kassapunkter/)
+11. Butikknavn/adresse
+12. Versjon av Mystore Datakasse
+
+![hovedmeny_2](/pos-doc/assets/images/dokumentasjon_hovedmeny_2.jpg)
+
+13. Stopp kassasalg/sesjon (oppgjør/avstemming)
+14. Viser ID til nåværende sesjon (z-rapport)
+
