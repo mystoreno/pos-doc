@@ -45,9 +45,11 @@ Finner du ikke svar på spørsmålet ditt? [Ta kontakt med Mystore Kundeservice]
 10. Viser kasse ID. [Les mer](https://mystoreno.github.io/pos-doc/kom-i-gang/kassapunkter/)
 11. Butikknavn/adresse
 12. Versjon av Mystore Datakasse
-
 ![hovedmeny_2](/pos-doc/assets/images/dokumentasjon_hovedmeny_2.jpg)
-
 13. Stopp kassasalg/sesjon (oppgjør/avstemming)
 14. Viser ID til nåværende sesjon (z-rapport)
+
+
+
+
 
