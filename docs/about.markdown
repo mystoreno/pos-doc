@@ -49,7 +49,31 @@ Finner du ikke svar på spørsmålet ditt? [Ta kontakt med Mystore Kundeservice]
 13. Stopp kassasalg/sesjon (oppgjør/avstemming)
 14. Viser ID til nåværende sesjon (z-rapport)
 
+## Innstillinger
+### Generelt
+![innstillinger_generelt](/pos-doc/assets/images/dokumentasjon_innstilinger_generelt.jpg)
 
+1. Gir deg en advarsel his produktet du legger i handlekurven har 0 eller
+negativ lagersaldo (disponibelt lager). Du kan så velge om du vil avbryte salget eller fortsette 
+2. Med denne skrudd på vil selgermenyen automatisk åpnes etter fullført salg/ordre. Eller modal for ansattkort/PIN-kode (punkt 3) vil åpnes automatisk, hvis denne er aktivert
+3. Selger velges med scanning av ansattkort eller PIN-kode
+
+### Skriver
+![innstillinger_generelt](/pos-doc/assets/images/dokumentasjon_innstilinger_skriver.jpg)
+
+1. Lar deg koble til kvitteringsskriver.
+2. Skru denne på hvis du ønsker automatisk utskrift av kvittering etter hvert salg. Skriver må være tilkoblet.
+
+### Betaling
+![innstillinger_betaling](/pos-doc/assets/images/dokumentasjon_innstilinger_betaling.jpg)
+
+1. Åpner terminalinnstillinger hvor du kan koble til bankterminal
+2. Hvis du vil tilby kundene å dele opp betalingen på flere bankkort, eller dele mellom bankkort og vipps 
+3. Kontantbetaling må være på skrudd for å kunne ta i mot kontanter. Hvis denne slås av forsvinner **konatant** fra betalingsmetoder. Hvis du har kassaskuff koblet til kassasystemet vil skuffen åpnes automatisk så kontantbetaling er påskrudd
+4. Ønsket kontantbeholdning ved oppstart og avslutning. Beløpet settes i kontrollpanelet via Konfigurasjon > Generelt > POS
+
+### Annet
+![innstillinger_annet](/pos-doc/assets/images/dokumentasjon_innstilinger_annet.jpg)
 
 
 
