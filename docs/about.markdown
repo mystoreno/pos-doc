@@ -67,13 +67,19 @@ negativ lagersaldo (disponibelt lager). Du kan så velge om du vil avbryte salge
 ### Betaling
 ![innstillinger_betaling](/pos-doc/assets/images/dokumentasjon_innstilinger_betaling.jpg)
 
-1. Åpner terminalinnstillinger hvor du kan koble til bankterminal
+1. Åpner terminalinnstillinger hvor du kan koble til, koble fra eller endre bankterminal
 2. Hvis du vil tilby kundene å dele opp betalingen på flere bankkort, eller dele mellom bankkort og vipps 
 3. Kontantbetaling må være på skrudd for å kunne ta i mot kontanter. Hvis denne slås av forsvinner **kontant** fra betalingsmetoder. Hvis du har kassaskuff koblet til kassasystemet vil skuffen åpnes automatisk så kontantbetaling er påskrudd
 4. Ønsket kontantbeholdning ved oppstart og avslutning. Beløpet settes i kontrollpanelet via Konfigurasjon > Generelt > POS
 
 ### Annet
 ![innstillinger_annet](/pos-doc/assets/images/dokumentasjon_innstilinger_annet.jpg)
+
+1. Analyseinformasjonen og statistikken er samlet i et format som ikke identifiserer deg personlig. Hensikten er å hjelpe Mystore med å forbedre produktet og tjenesten.
+2. Sletter data lagret lokalt i appen. Vi oppbevarer ingen bokførte opplysninger lokalt i appen. For å ivareta Kassasystemforskriften lagres alle opplysninger i butikkens kontrollpanel. Dette er lokalisert på [butikknavn].mystore4.no/kontrollpanel. Alle opplysninger er tilgjengelig i kontrollpanelet og til enhver tid tilgjengelig for butikkeier og eventuelt skatteetaten for kontroll
+3. Her kan du sjekke status på din internettforbindelse
+
+## Siste ordrer
 
 
 
