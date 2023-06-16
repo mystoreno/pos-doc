@@ -80,6 +80,41 @@ negativ lagersaldo (disponibelt lager). Du kan så velge om du vil avbryte salge
 3. Her kan du sjekke status på din internettforbindelse
 
 ## Siste ordrer
+![siste_ordrer](/pos-doc/assets/images/dokumentasjon_ordrer.jpg)
+
+1. Viser siste ordrer fra kassen du behandler
+2. Viser siste ordrer fra alle kassepunkt (hvis flere)
+3. Viser siste ordrer fra nettbutikk (hvis du også har nettbutikk)
+4. Viser siste refusjoner til bankkort
+5. Åpner flere valg per ordre
+6. Viser kvitteringen til ordren
+7. Skriver ut kopi av kvittering (kvitteringsskriver må være tilkoblet)
+8. Sender kopi av kvittering på SMS
+9. Registrer retur/bytte på hele eller deler av ordren
+10. Skriv ut byttelapp for noen eller alle produktene på ordren 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
