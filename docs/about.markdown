@@ -69,8 +69,8 @@ negativ lagersaldo (disponibelt lager). Du kan så velge om du vil avbryte salge
 
 1. Åpner terminalinnstillinger hvor du kan koble til, koble fra eller endre bankterminal
 2. Hvis du vil tilby kundene å dele opp betalingen på flere bankkort, eller dele mellom bankkort og vipps 
-3. Kontantbetaling må være på skrudd for å kunne ta i mot kontanter. Hvis denne slås av forsvinner **kontant** fra betalingsmetoder. Hvis du har kassaskuff koblet til kassasystemet vil skuffen åpnes automatisk så kontantbetaling er påskrudd
-4. Ønsket kontantbeholdning ved oppstart og avslutning. Beløpet settes i kontrollpanelet via Konfigurasjon > Generelt > POS
+3. Kontantbetaling må være på skrudd for å kunne ta i mot kontanter. Hvis denne slås av forsvinner **Kontant** fra betalingsmetoder. Hvis du har kassaskuff koblet til kassasystemet vil skuffen åpnes automatisk når ordren slås ut på betalingsmetode **Kontant**
+4. Ønsket kontantbeholdning ved oppstart/avslutning. Beløpet settes i kontrollpanelet via Konfigurasjon > Generelt > POS
 
 ### Annet
 ![innstillinger_annet](/pos-doc/assets/images/dokumentasjon_innstilinger_annet.jpg)
