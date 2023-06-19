@@ -21,11 +21,11 @@ Finner du ikke svar på spørsmålet ditt? [Ta kontakt med Mystore Kundeservice]
 4. Ikon for bankterminal. Denne lyser grønt når terminal er koblet til. Trykk på ikonet for å gå til terminalinnstillinger
 5. Viser valgt kunde. Trykk på navn/ikon for å velge kunde, eller for å legge til ny kunde. Standard valg er sluttkunde/kontantkunde
 6. Merker/produsenter
-7. Kategorivalg. Her kan du velge favorittkategorier (se også punkt 11) og bestemme visning av kategorier
+7. [Kategorivalg](https://mystoreno.github.io/pos-doc/hjem/#kategorivalg). Her kan du velge favorittkategorier (se også punkt 11) og bestemme visning av kategorier
 8. Legg til genereisk produkt (diverseprodukt) eller gavekort via denne knappen
 9. Sett rabatt i prosent for hele handlekurven
 10. Tøm hele handlekurven
-11. Favorittkategorier. Hvis du har kategorier som du raskt vil navigere til (se også punkt 7)
+11. [Favorittkategorier](https://mystoreno.github.io/pos-doc/hjem/#kategorivalg). Hvis du har kategorier som du raskt vil navigere til (se også punkt 7)
 12. Utvalgte produkter/favorittprodukter. Settes via _produktinfo_ i produktboksene
 13. Kategorier
 14. Betalingsmetoder
@@ -33,11 +33,11 @@ Finner du ikke svar på spørsmålet ditt? [Ta kontakt med Mystore Kundeservice]
 ## Hovedmeny
 ![hovedmeny_1](/pos-doc/assets/images/dokumentasjon_hovedmeny_1.jpg)
 
-1. Åpner innstillinger
+1. Åpner [innstillinger](https://mystoreno.github.io/pos-doc/hjem/#innstillinger)
 2. Start kassalg/sesjon
 3. Viser omsetning på nåværende sesjon. Kan også skrives ut
 4. Trykk her for å koble til eller sjekke tilkoblingsstatus på kvitteringsskriver 
-5. Åpner en liste/meny med siste ordrer fra alle kassapunkter, refusjoner (til bankkort) og ordrer fra nettbutikk
+5. Åpner en [liste/meny med siste ordrer](https://mystoreno.github.io/pos-doc/hjem/#siste-ordrer) fra alle kassapunkter, refusjoner (til bankkort) og ordrer fra nettbutikk
 6. Trykk her for å søke opp ordre
 7. Skriver ut siste kvittering (hvis kvitteringsskriver er tilkoblet)
 8. Åpner kassaskuffen hvis tilkoblet
@@ -61,8 +61,8 @@ negativ lagersaldo (disponibelt lager). Du kan så velge om du vil avbryte salge
 ### Skriver
 ![innstillinger_generelt](/pos-doc/assets/images/dokumentasjon_innstilinger_skriver.jpg)
 
-1. Lar deg koble til kvitteringsskriver.
-2. Skru denne på hvis du ønsker automatisk utskrift av kvittering etter hvert salg. Skriver må være tilkoblet.
+1. Lar deg koble til kvitteringsskriver
+2. Skru denne på hvis du ønsker automatisk utskrift av kvittering etter hvert salg. Skriver må være tilkoblet
 
 ### Betaling
 ![innstillinger_betaling](/pos-doc/assets/images/dokumentasjon_innstilinger_betaling.jpg)
@@ -75,9 +75,19 @@ negativ lagersaldo (disponibelt lager). Du kan så velge om du vil avbryte salge
 ### Annet
 ![innstillinger_annet](/pos-doc/assets/images/dokumentasjon_innstilinger_annet.jpg)
 
-1. Analyseinformasjonen og statistikken er samlet i et format som ikke identifiserer deg personlig. Hensikten er å hjelpe Mystore med å forbedre produktet og tjenesten.
+1. Analyseinformasjonen og statistikken er samlet i et format som ikke identifiserer deg personlig. Hensikten er å hjelpe Mystore med å forbedre produktet og tjenesten
 2. Sletter data lagret lokalt i appen. Vi oppbevarer ingen bokførte opplysninger lokalt i appen. For å ivareta Kassasystemforskriften lagres alle opplysninger i butikkens kontrollpanel. Dette er lokalisert på [butikknavn].mystore4.no/kontrollpanel. Alle opplysninger er tilgjengelig i kontrollpanelet og til enhver tid tilgjengelig for butikkeier og eventuelt skatteetaten for kontroll
 3. Her kan du sjekke status på din internettforbindelse
+
+## Kategorivalg
+![kategorivalg](/pos-doc/assets/images/dokumentasjon_kategorivalg.jpg)
+
+1. Lukk kategorivalg
+2. Tilbakestiller alle tilpassninger av kategorier og favoritter
+3. Lukker kategorivalg (lagring skjer fortløpende)
+4. Viser til at kategorien har flere nivåer (underkategori). Trykk på pilen for å gå til underkategori
+5. Marker stjernen for å sette kategorien som favoritt
+6. Bryteren/knappen bestemmer visning av kategorien i datakassen. Hvis du ønsker å skjule en kategori kan du slå av visningen her 
 
 ## Siste ordrer
 ![siste_ordrer](/pos-doc/assets/images/dokumentasjon_ordrer.jpg)
@@ -91,7 +101,7 @@ negativ lagersaldo (disponibelt lager). Du kan så velge om du vil avbryte salge
 7. Skriver ut kopi av kvittering (kvitteringsskriver må være tilkoblet)
 8. Sender kopi av kvittering på SMS
 9. Registrer retur/bytte på hele eller deler av ordren
-10. Skriv ut byttelapp for noen eller alle produktene på ordren 
+10. Åpner valg for byttelapp. Skriv ut byttelapp for hele eller deler av ordren
 
 
 
