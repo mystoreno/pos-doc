@@ -17,6 +17,6 @@ Gitt verdi vil da alltid vises/foreslås i feltet for kontantbeholdning ved star
 ![kontantbeholdning_pos](/pos-doc/assets/images/kontantbeholdning_pos.jpg)
 
 {: .important }
-> Vekselkasse/kasseskuff må aktiveres i appen via _Hovedmeny > Innstillinger > Betaling_
+> Vekselkasse/kontantbetaling må aktiveres i appen via _Hovedmeny > Innstillinger > Betaling_
 >
-> ![kasseskuff_pos](/pos-doc/assets/images/kasseskuff_pos.jpg)
+> ![kasseskuff_pos](/pos-doc/assets/images/dokumentasjon_betaling_kontant.jpg)
