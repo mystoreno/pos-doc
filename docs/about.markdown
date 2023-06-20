@@ -32,8 +32,10 @@ Finner du ikke svar på spørsmålet ditt? [Ta kontakt med Mystore Kundeservice]
 
 ## Kategoriside
 ![kategoriside](/pos-doc/assets/images/dokumentasjon_kategori.jpg)
+
 {: .highlight }
 Trykk på produktboks (bilde/tittel/pris) for å legge produkt til handlekurv
+
 1. Hjemikon. Tar deg til forsiden
 2. Tilbakepil. Tar deg ett steg tibake
 3. _Breadcrumb_. Viser hvor du er i kategoristrukturen. Kategorinavnene kan trykkes på rask navigering
