@@ -14,6 +14,12 @@ Finner du ikke svar på spørsmålet ditt? [Ta kontakt med Mystore Kundeservice]
 
 --- 
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 ## Hjem/forside
 ![hjem](/pos-doc/assets/images/dokumentasjon_index_page.jpg)
 
