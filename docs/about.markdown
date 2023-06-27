@@ -138,12 +138,12 @@ negativ lagersaldo (disponibelt lager). Du kan så velge om du vil avbryte salge
 10. Åpner valg for byttelapp. Skriv ut byttelapp for hele eller deler av ordren
 
 ## Søk opp ordre (for å registrere retur)
-![order_search](/pos-doc/assets/images/dokumentasjon_search_ordrer.jpg)
+![order_search](/pos-doc/assets/images/dokumentasjon_search_order.jpg)
 
 1. Felt for å skrive inn ordrenummer eller strekkoden nederst på fysisk kvittering
 2. Lukker modalen
 
-![order_search_2](/pos-doc/assets/images/dokumentasjon_search_ordrer_2.jpg)
+![order_search_2](/pos-doc/assets/images/dokumentasjon_search_order_2.jpg)
 
 1. Ordrenummer
 2. Kundenavn
