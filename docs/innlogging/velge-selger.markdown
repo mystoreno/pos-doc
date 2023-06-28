@@ -7,12 +7,15 @@ parent: Innlogging og brukere
 ---
 
 # Hvordan velge selger
-For å sette opp valg av selger har vi to valg:
-1. Ved hjelp av en selgermeny/liste
-2. Ved bruke av PIN-kode eller skannnig av ansattkort
+Det er tre alternativer for å velge selger i Mystore Datakasse:
+- Ved hjelp av en selgermeny
+- Ved bruke av PIN-kode eller skannnig av ansattkort. Disse to alternativene vil være tilgjengelig i samme modal.
 
 Dette kan velges via _Hovedmeny > Innstillinger > Generelt_
 Her kan du også velge om valg av selger skal påtvinges etter hvert salg.
+
+1. Hvis dette valget er **på** åpnes selgermeny eller PIN-kode/ansattkort-skanning automatisk etter hvert salg. Om det er selger meny eller PIN-kode/ansattkort bestemmes i valget under
+2. Hvis dette valget er **av** vil selgermeny være gjeldende. Hvis valget slås **på** vil PIN-kode/skanning av ansattkort være gjeldende.
 ![velg_selger_innstilling](/pos-doc/assets/images/dokumentasjon_valg_selgere.jpg) 
 
 
