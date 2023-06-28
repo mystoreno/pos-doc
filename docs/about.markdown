@@ -47,7 +47,7 @@ Trykk på produktboks (bilde/tittel/pris) for å legge produkt til handlekurv
 
 1. Hjemikon. Tar deg til forsiden
 2. Tilbakepil. Tar deg ett steg tibake
-3. _Breadcrumb_. Viser hvor du er i kategoristrukturen. Kategorinavnene kan trykkes på rask navigering
+3. _Breadcrumb_. Viser hvor du er i kategoristrukturen. Kategorinavnene kan trykkes på for rask navigering
 4. Produktnavn
 5. Produktets pris
 6. Åpner produktinformasjon
@@ -56,7 +56,7 @@ Trykk på produktboks (bilde/tittel/pris) for å legge produkt til handlekurv
 ![produktinfo](/pos-doc/assets/images/dokumentasjon_produktinfo.jpg)
 
 1. Favorittstjerne. Marker for å sette produktet som favoritt/utvalgt produkt. Produktet vil da vises på forsiden over kategoriene (se [Hjem/forside][https://mystoreno.github.io/pos-doc/hjem/#hjemforside) punkt 12)
-2. Produktdata hentet fra produktkortet i kontrollpanelet (Pris, avanse, produsent, artikkelnummer, EAN, Lagerlokasjon og lagerbeholdning)
+2. Produktdata hentet fra produktkortet i kontrollpanelet (pris, avanse, produsent, artikkelnummer, EAN, Lagerlokasjon og lagerbeholdning)
 3. Produktbeskrivelse hentet fra produktkortet i kontrollpanelet, hvis dette foreligger. Har du også nettbutikk vil dette være samme produktbeskrivelse som vises i nettbutikken
 
 ### Produktinformasjon (produkt med varianter)
