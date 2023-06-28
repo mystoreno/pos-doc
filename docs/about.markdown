@@ -89,7 +89,7 @@ Trykk på produktboks (bilde/tittel/pris) for å legge produkt til handlekurv
 
 1. Gir deg en advarsel his produktet du legger i handlekurven har 0 eller
 negativ lagersaldo (disponibelt lager). Du kan så velge om du vil avbryte salget eller fortsette 
-2. Med denne skrudd på vil selgermenyen automatisk åpnes etter fullført salg/ordre. Eller modal for ansattkort/PIN-kode (punkt 3) vil åpnes automatisk, hvis denne er aktivert
+2. Med denne skrudd på vil selgermenyen automatisk åpnes etter fullført salg/ordre. Eventuelt modalen for ansattkort/PIN-kode (punkt 3), hvis denne er aktivert
 3. Selger velges med scanning av ansattkort eller PIN-kode
 
 ### Skriver
