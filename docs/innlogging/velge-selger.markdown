@@ -12,20 +12,23 @@ For å sette opp valg av selger har vi to valg:
 2. Ved bruke av PIN-kode eller skannnig av ansattkort
 
 Dette kan velges via _Hovedmeny > Innstillinger > Generelt_
-![velg_selger_innstilling](/pos-doc/assets/images/selger_innstillinger.jpg) 
-
 Her kan du også velge om valg av selger skal påtvinges etter hvert salg.
+![velg_selger_innstilling](/pos-doc/assets/images/dokumentasjon_valg_selgere.jpg) 
 
-## Valg av selger via selgermney
-Standard versjon. Så lenge du ikke har slått på PIN-kode/ansattkort vil du få selgermenyen når du trykker på selger-knappen øverst i appen.
-![velg_selger_1](/pos-doc/assets/images/selger_1.jpg)
-![velg_selger_2](/pos-doc/assets/images/selger_velg.jpg)
+
+## Valg av selger via selgermney 
+
+1. Trykk på selgerknappen øverst i appen. Selgermenyen åpnes 
+2. Trykk på ønsket selger
+![velg_selger_1](/pos-doc/assets/images/dokumentasjon_selgerknapp.jpg)
+![velg_selger_2](/pos-doc/assets/images/dokumentasjon_selgermeny_1.jpg)
 
 ### Kan jeg skjule brukere fra selgermenyen?
 Hvis du har mange brukere/administratorer som ikke er selgere i datakassen kan du velge å skjule disse fra selgermenyen.
-1. Trykk på selger-knappen
-2. Trykk på innstillinger-knappen øverst til høyre i selgermenyen
+1. Trykk på selgerknappen øverst i appen. Selgermaeyen åpnes
+2. Trykk på innstillinger-ikonet øverst til høyre i selgermenyen
 3. Her kan du velge hvilke brukere som skal være synlig i selgermenyen. Dette er kun synsmessig, brukerne vil ikke bli slettet/deaktivert.
+![valg_selgermeny](/pos-doc/assets/images/dokumentasjon_selgermeny_valg.jpg)
 ![velg_selger_synlighet](/pos-doc/assets/images/selger_skjul.jpg)
 
 ## Valg av selger via PIN-kode eller ansattkort
