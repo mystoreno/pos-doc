@@ -7,8 +7,6 @@ parent: Kom i gang
 ---
 
 # Koble til bankterminal 
-![bankterminal_1](/pos-doc/assets/images/dokumentasjon_betaling_terminal_1.jpg)
-![bankterminal_2](/pos-doc/assets/images/dokumentasjon_betaling_terminal_2.jpg)
 
 1. Trykk på bankterminalikonet øverst i appen. Du blir nå sendt til betalingsinnstillinger.
 2. Trykk på _Koble til terminal_ 
@@ -17,4 +15,6 @@ parent: Kom i gang
 {: .highlight }
 Når terminalen er koblet til vil terminalikonet øvertst i appen lyse grønt (isteden for grått). Kortknappen nederst i handleurven vil også være grønn når bankterminal er koblet til
 
+![bankterminal_1](/pos-doc/assets/images/dokumentasjon_betaling_terminal_1.jpg)
+![bankterminal_2](/pos-doc/assets/images/dokumentasjon_betaling_terminal_2.jpg)
 ![bankterminal_3](/pos-doc/assets/images/dokumentasjon_betaling_terminal_3.jpg)
