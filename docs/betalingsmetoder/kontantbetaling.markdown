@@ -9,7 +9,7 @@ parent: Betalingsmetoder
 # Betal kontant
 
 For å ta i mot kontantbetaling må du først sjekke at _kasseakuff_ er aktivert. <br> 
-Gå til _Hovedmeny > Innstillinger > Betaling_ og slå på _kassaskuff_
+Gå til _Hovedmeny > Innstillinger > Betaling_ og se til at _kontantbetaling_ er slått på.
 ![kassaskuff](/pos-doc/assets/images/dokumentasjon_betaling_kontant.jpg) 
 
 ## Ta i mot kontantbetaling
