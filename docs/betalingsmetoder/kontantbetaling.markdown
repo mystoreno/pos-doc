@@ -10,7 +10,7 @@ parent: Betalingsmetoder
 
 For å ta i mot kontantbetaling må du først sjekke at _kasseakuff_ er aktivert. <br> 
 Gå til _Hovedmeny > Innstillinger > Betaling_ og slå på _kassaskuff_
-![kassaskuff](/pos-doc/assets/images/kasseskuff_pos.jpg) 
+![kassaskuff](/pos-doc/assets/images/dokumentasjon_betaling_kontant.jpg) 
 
 ## Ta i mot kontantbetaling
 1. Trykk på betalingsknappen _Kontant_ (denne ligger bak _Flere valg_ hvis du har Kort og Vipps aktivert)
