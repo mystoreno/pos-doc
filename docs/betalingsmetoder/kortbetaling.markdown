@@ -25,6 +25,6 @@ Når bankterminal er koblet til er du klar for å ta i mot betaling med bankkort
 
 Hvis kunde ønsker å splitte opp betalingen mellom flere bankkort, eller delvis betale med vipps, kan du aktivere splitt-betaling via _Hovedmeny > Innstillinger > Betaling > Tillat splitt-betaling_
 
-![splittbetaling](/pos-doc/assets/images/splitt_betaling.jpg)
+![splittbetaling](/pos-doc/assets/images/dokumentasjon_betaling_splitt.jpg)
 
 Hvis kunde vil splitte betaling mellom kontanter og bankkort, eller gavekort/tilgodelapp og bankkort, trenger du ikke å aktivere splitt-betaling, da holder det å først velge kontant (eller gavekort/tilgodelapp), og så velge kort for resterende beløp.
