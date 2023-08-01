@@ -14,7 +14,7 @@ For å bruke Vipps i datakassen må du først ha en avtale/konto. Hvis du ikke a
 Når Vippskontoen for Mystore er klar til bruk gjør du følgende for å aktivere denne i datakassen:
 1. Gå til _Hovedmeny > Innstillinger > Betaling_
 2. Her aktiverer du Vipps som betalingsmetode
-![vipps_1](/pos-doc/assets/images/vipps_1.jpg) <br>
+![vipps_1](/pos-doc/assets/images/dokumentasjon_betaling_vipps.jpg) <br>
 3. Når betalingsmetoden er aktivert vil du ha en betalingsknapp for Vipps
 ![vipps_2](/pos-doc/assets/images/vipps_2.jpg)
 
@@ -28,6 +28,6 @@ Når Vippskontoen for Mystore er klar til bruk gjør du følgende for å aktiver
 
 Hvis kunde ønsker å splitte opp betalingen mellom vipps og bankkort kan du aktivere splitt-betaling via _Hovedmeny > Innstillinger > Betaling > Tillat splitt-betaling_
 
-![splittbetaling](/pos-doc/assets/images/splitt_betaling.jpg)
+![splittbetaling](/pos-doc/assets/images/dokumentasjon_betaling_splitt.jpg)
 
 Hvis kunde vil splitte betaling mellom kontanter og vipps, eller gavekort/tilgodelapp og vipps, trenger du ikke å aktivere splitt-betaling, da holder det å først velge kontant (eller gavekort/tilgodelapp), og så velge kort for resterende beløp.
