@@ -68,7 +68,7 @@ Trykk på produktboks (bilde/tittel/pris) for å legge produkt til handlekurv
 ![hovedmeny_1](/pos-doc/assets/images/dokumentasjon_hovedmeny_1.jpg)
 
 1. Åpner [innstillinger](https://mystoreno.github.io/pos-doc/hjem/#innstillinger)
-2. Start kassalg/sesjon
+2. Start kassasalg/sesjon
 3. Viser omsetning på nåværende sesjon. Kan også skrives ut
 4. Trykk her for å koble til eller sjekke tilkoblingsstatus på kvitteringsskriver 
 5. Åpner en [liste/meny med siste ordrer](https://mystoreno.github.io/pos-doc/hjem/#siste-ordrer) fra alle kassapunkter, refusjoner (til bankkort) og ordrer fra nettbutikk
