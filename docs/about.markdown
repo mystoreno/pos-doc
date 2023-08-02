@@ -106,7 +106,7 @@ negativ lagersaldo (disponibelt lager). Du kan så velge om du vil avbryte salge
 3. Kontantbetaling må være på skrudd for å kunne ta i mot kontanter. Hvis denne slås av forsvinner **Kontant** fra betalingsmetoder. Hvis du har kassaskuff koblet til kassasystemet vil skuffen åpnes automatisk når ordren slås ut på betalingsmetode **Kontant**
 4. Ønsket kontantbeholdning ved oppstart/avslutning. Beløpet settes i kontrollpanelet via Konfigurasjon > Generelt > POS
 
-### Visnig
+### Visning
 ![innstillinger_visning](/pos-doc/assets/images/dokumentasjon_innstilinger_visning.jpg)
 
 1. Aktiverer selvbetjentmodus
