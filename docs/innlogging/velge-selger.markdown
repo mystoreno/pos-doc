@@ -30,7 +30,7 @@ Hvis dette valget er **av** vil selgermeny være gjeldende. Hvis valget slås **
 
 ### Kan jeg skjule brukere fra selgermenyen?
 Hvis du har mange brukere/administratorer som ikke er selgere i datakassen kan du velge å skjule disse fra selgermenyen.
-1. Trykk på selgerknappen øverst i appen. Selgermaeyen åpnes
+1. Trykk på selgerknappen øverst i appen. Selgermenyen åpnes
 2. Trykk på innstillinger-ikonet øverst til høyre i selgermenyen
 3. Her kan du velge hvilke brukere som skal være synlig i selgermenyen. Dette er kun synsmessig, brukerne vil ikke bli slettet/deaktivert.
 ![valg_selgermeny](/pos-doc/assets/images/dokumentasjon_selgermeny_valg.jpg)
