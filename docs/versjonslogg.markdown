@@ -8,6 +8,11 @@ nav_order: 12
 # Versjonslogg
 Her legger vi ut informasjon om oppdateringer og endringer
 
+## Versjon 4.0.1
+
+* Ny versjon av produktinformasjon-modalen. Varianter vises nå i en tabell for bedre oversikt
+* Produktegenskaper (hvis lagt inn på produkt) er nå også tilgjengelig i produktinformasjon
+
 ## Versjon 4.0.0
 
 * Refusjon til kort har ny flyt. Mindre ventetid. [Les mer](https://mystoreno.github.io/pos-doc/retur-bytte-reklamasjon/refusjon-til-kort/)
