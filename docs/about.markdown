@@ -5,7 +5,7 @@ permalink: /hjem/
 nav_order: 1
 ---
 
-# Mystore Datakasse dokumentasjon (v 4.0.0)
+# Mystore Datakasse dokumentasjon (v 4.0.1)
 {: .no_toc }
 Velkommen til dokumetasjonen for Mystore Datakasse. Du kan navigere til ønsket emne i sidemenyen,<br> eller benytte deg av søkefeltet øverst på siden. 
 
