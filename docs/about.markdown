@@ -52,17 +52,14 @@ Trykk på produktboks (bilde/tittel/pris) for å legge produkt til handlekurv
 5. Produktets pris
 6. Åpner produktinformasjon
 
-### Produktinformasjon (produkt uten varianter)
-![produktinfo](/pos-doc/assets/images/dokumentasjon_produktinfo.jpg)
+### Produktinformasjon
+![produktinfo](/pos-doc/assets/images/dokumentasjon_produktinfo_ny.jpg)
 
 1. Favorittstjerne. Marker for å sette produktet som favoritt/utvalgt produkt. Produktet vil da vises på forsiden over kategoriene (se [Hjem/forside][https://mystoreno.github.io/pos-doc/hjem/#hjemforside) punkt 12)
-2. Produktdata hentet fra produktkortet i kontrollpanelet (pris, avanse, produsent, artikkelnummer, EAN, Lagerlokasjon og lagerbeholdning)
-3. Produktbeskrivelse hentet fra produktkortet i kontrollpanelet, hvis dette foreligger. Har du også nettbutikk vil dette være samme produktbeskrivelse som vises i nettbutikken
-
-### Produktinformasjon (produkt med varianter)
-![produktinfo_varianter](/pos-doc/assets/images/dokumentasjon_produktinfo_variant.jpg)
-
-1. Variantene vises i nedtrekksmeny, rett over produktbeskrivelse. Produktdata i modalen som kan være forskjellig fra variant til variant vil også endres i det man endrer variant i nedtrekksmenyen. Dette kan f.eks være artikkelnummer, EAN, lagerbeholdning, lagerlokasjon og/eller pris (hvis pristillegg på variant) 
+2. Produktdata hentet fra produktkortet i kontrollpanelet (pris, avanse, produsent, artikkelnummer, EAN, Lagerlokasjon og lagerbeholdning) 
+{: .highlight }
+Innpris og avanse kan skjules/aktiveres i kontrollpanelet via **Konfigurasjon > Generelt > POS > _Vis bruttofortjeneste_**
+3. Hvis produkter har vatrianter vil disse vises i en tabell med tilhørende produktdata (lager, art nr, lagerlokasjon hvis spesifisert og EAN). Du har også en fane for produktbeskrivelse og produktegenskaper hvis dette er lagt inn på produktet
 
 ## Hovedmeny
 ![hovedmeny_1](/pos-doc/assets/images/dokumentasjon_hovedmeny_1.jpg)
