@@ -57,11 +57,10 @@ Trykk på produktboks (bilde/tittel/pris) for å legge produkt til handlekurv
 
 1. Favorittstjerne. Marker for å sette produktet som favoritt/utvalgt produkt. Produktet vil da vises på forsiden over kategoriene (se [Hjem/forside][https://mystoreno.github.io/pos-doc/hjem/#hjemforside) punkt 12)
 2. Produktdata hentet fra produktkortet i kontrollpanelet (pris, avanse, produsent, artikkelnummer, EAN, Lagerlokasjon og lagerbeholdning) 
+3. Hvis produkter har vatrianter vil disse vises i en tabell med tilhørende produktdata (lager, art nr, lagerlokasjon hvis spesifisert og EAN). Du har også en fane for produktbeskrivelse og produktegenskaper hvis dette er lagt inn på produktet
 
 {: .highlight }
-Innpris og avanse kan skjules/aktiveres i kontrollpanelet via **Konfigurasjon > Generelt > POS > _Vis bruttofortjeneste_**
-
-3. Hvis produkter har vatrianter vil disse vises i en tabell med tilhørende produktdata (lager, art nr, lagerlokasjon hvis spesifisert og EAN). Du har også en fane for produktbeskrivelse og produktegenskaper hvis dette er lagt inn på produktet
+Feltene _Innpris_ og _Avanse_ kan skjules/aktiveres i kontrollpanelet via **Konfigurasjon > Generelt > POS > _Vis bruttofortjeneste_**
 
 ## Hovedmeny
 ![hovedmeny_1](/pos-doc/assets/images/dokumentasjon_hovedmeny_1.jpg)
