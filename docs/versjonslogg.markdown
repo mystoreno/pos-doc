@@ -12,6 +12,7 @@ Her legger vi ut informasjon om oppdateringer og endringer
 
 * Ny versjon av produktinformasjon-modalen. Varianter vises nå i en tabell for bedre oversikt
 * Produktegenskaper (hvis lagt inn på produkt) er nå også tilgjengelig i produktinformasjon
+* Bilde i produktmodal vil endres i takt med valgt variant, hvis variantbilder er lagt inn på produkt
 
 ## Versjon 4.0.0
 
