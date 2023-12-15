@@ -5,7 +5,7 @@ permalink: /hjem/
 nav_order: 1
 ---
 
-# Mystore Datakasse dokumentasjon (v 4.0.1)
+# Mystore Datakasse dokumentasjon (v 4.0.2)
 {: .no_toc }
 Velkommen til dokumetasjonen for Mystore Datakasse. Du kan navigere til ønsket emne i sidemenyen,<br> eller benytte deg av søkefeltet øverst på siden. 
 
@@ -83,12 +83,13 @@ Feltene _Innpris_ og _Avanse_ kan skjules/aktiveres i kontrollpanelet via **Konf
 
 ## Innstillinger
 ### Generelt
-![innstillinger_generelt](/pos-doc/assets/images/dokumentasjon_innstilinger_generelt.jpg)
+![innstillinger_generelt](/pos-doc/assets/images/dokumentasjon_innstilinger_generelt_2.jpg)
 
 1. Gir deg en advarsel his produktet du legger i handlekurven har 0 eller
 negativ lagersaldo (disponibelt lager). Du kan så velge om du vil avbryte salget eller fortsette 
 2. Med denne skrudd på vil selgermenyen automatisk åpnes etter fullført salg/ordre. Eventuelt modalen for ansattkort/PIN-kode (punkt 3), hvis denne er aktivert
 3. Selger velges med scanning av ansattkort eller PIN-kode
+4. Lar deg sette utløpsdato på byttelappene. Du kan enten skrive inn antall dager, eller velge en spesifikk dato.
 
 ### Skriver
 ![innstillinger_generelt](/pos-doc/assets/images/dokumentasjon_innstilinger_skriver.jpg)
