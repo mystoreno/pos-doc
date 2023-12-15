@@ -8,7 +8,7 @@ nav_order: 12
 # Versjonslogg
 Her legger vi ut informasjon om oppdateringer og endringer
 
-## 4.0.2
+## Versjon 4.0.2
 
 * Lagt til valg for å sette utløpsdato på byttelapp
 
