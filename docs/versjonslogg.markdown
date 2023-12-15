@@ -8,6 +8,10 @@ nav_order: 12
 # Versjonslogg
 Her legger vi ut informasjon om oppdateringer og endringer
 
+## 4.0.2
+
+* Lagt til valg for å sette utløpsdato på byttelapp
+
 ## Versjon 4.0.1
 
 * Ny versjon av produktinformasjon-modalen. Varianter vises nå i en tabell for bedre oversikt
