@@ -83,7 +83,7 @@ Feltene _Innpris_ og _Avanse_ kan skjules/aktiveres i kontrollpanelet via **Konf
 
 ## Innstillinger
 ### Generelt
-![innstillinger_generelt](/pos-doc/assets/images/dokumentasjon_innstilinger_generelt_2.png)
+![innstillinger_generelt](/pos-doc/assets/images/dokumentasjon_innstillinger_generelt_ny.jpg)
 
 1. Gir deg en advarsel his produktet du legger i handlekurven har 0 eller
 negativ lagersaldo (disponibelt lager). Du kan så velge om du vil avbryte salget eller fortsette 
